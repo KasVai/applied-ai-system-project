@@ -51,3 +51,5 @@ Set Up Instructions:
 
 ## Reflection: 
 This project showed me that the best use of AI is not just making text, but organizing messy information. By changing a confusing sentence into a clear number, I helped solve a real problem: keeping pets safe on a busy day. It also showed me how important "Safe-Fail" designs are byy making sure that if the AI is unsure, it follows a safe and clear way.
+
+# DEMO WALKTHROUGH: https://www.loom.com/share/41896cc07cb9431d9bac7956d4044ddc
