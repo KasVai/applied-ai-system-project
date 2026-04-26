@@ -1,4 +1,4 @@
-# Original Project: PawPal+ AI: New Intelligent Pet Care System 
+# PawPal+ AI: New Intelligent Pet Care System 
 
 ## Original Project: 
 
